@@ -57,33 +57,6 @@ Proyek ini adalah sistem aplikasi kasir sederhana yang dikembangkan menggunakan 
     * **jQuery**: Library JavaScript untuk manipulasi DOM dan fungsionalitas interaktif.
     * **DataTables**: Plugin jQuery untuk menampilkan data tabel dengan fitur pencarian dan paginasi.
 
-## Struktur File
-
-Struktur utama dari proyek ini adalah sebagai berikut:
-├── assets/
-│   ├── css/
-│   ├── fontawesome/
-│   ├── js/
-│   └── vendor/
-├── cetak.php
-├── config.php
-├── detail.php
-├── favicon.ico
-├── index-asli.php
-├── index.php
-├── indexkasir.php
-├── kategori.php
-├── laporan.php
-├── laporann.php
-├── login.php
-├── logout.php
-├── pelanggan.php
-├── pengaturan.php
-├── produk.php
-└── template/
-├── footer.php
-└── header.php
-
 ## Cara Memulai
 
 1.  **Impor Database**: Impor file `aplikasi-kasir.sql` ke database MySQL Anda.
